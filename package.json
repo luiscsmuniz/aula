@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Valandil",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.2.0"
+  }
 }
